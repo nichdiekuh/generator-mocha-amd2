@@ -1,5 +1,5 @@
 {
-  "name": "generator-mocha-amd",
+  "name": "generator-mocha-amd2",
   "version": "0.2.0",
   "description": "Yeoman generator for Mocha a la AMD",
   "keywords": [
@@ -11,15 +11,15 @@
     "tdd",
     "marionette"
   ],
-  "homepage": "https://github.com/mrichard/generator-mocha-amd",
-  "bugs": "https://github.com/mrichard/generator-mocha-amd/issues",
-  "author": "Michel Richard (clone of generator-mocha)",
+  "homepage": "https://github.com/nichdiekuh/generator-mocha-amd2",
+  "bugs": "https://github.com/nichdiekuh/generator-mocha-amd2/issues",
+  "author": "Steffen Konerow (clone of generator-mocha-amd)",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mrichard/generator-mocha-amd.git"
+    "url": "git://github.com/nichdiekuh/generator-mocha-amd2.git"
   },
   "dependencies": {
-    "yeoman-generator": "git://github.com/mrichard/generator.git",
+    "yeoman-generator": "~0.17.7",
     "findit": "~0.1.2",
     "underscore": "~1.5.1"
   },
